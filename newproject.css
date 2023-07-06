@@ -1,0 +1,61 @@
+.topnav{
+    background-color: antiquewhite;
+        overflow: auto;
+        text-align: left;
+        margin: 0px;
+        padding: 20px;
+        position: relative;
+        top: 5px;
+        width: 100%;
+    
+        }
+        .topnav a{
+    float: right;
+    display: block;
+    color: hotpink;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 30px;
+                     }
+      .topnav a:hover
+        {
+           background-color: white;
+           color: pink;
+                          }
+      .topnav a.active{
+        background-color: whitesmoke;
+        color: pink;
+                       } 
+      .stylesheet{
+        background-image: url(newprojectpic.jpg);
+        background-color: antiquewhite;
+        background-position: cover;
+        height: 500px;
+        width: 100%;
+        background-size: cover;
+        display: block;             
+      }            
+        .style{
+          text-align: center;
+          color: aliceblue;
+          font-size: x-large;
+          font-family: 'Times New Roman', Times, serif;
+          font-style: bold;          
+        }   
+        .styleme{
+          text-align: center;
+          color: aliceblue;
+          font-size: x-large;
+          display: block;
+          text-justify: distribute;
+          margin: 150px;
+
+        }   
+        .number{
+          text-align: right;
+          color: black;
+          font-size: x-large;
+
+        }                
+                     
